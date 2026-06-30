@@ -1,0 +1,18 @@
+{
+    "name": "Beach of the Day",
+    "scripts": {
+        "prebuild": "rm -rf dist && mkdir dist",
+        "minify-css": "postcss css/*.css -d dist/css",
+        "minify-html": "html-minifier-next --collapse-whitespace --remove-comments index.html -o dist/index.html",
+        "minify-js": "terser js/*.js -o dist/js/app.js",
+        "cp-all": "cp beaches.json dist/beaches.json && cp -r assets dist/assets",
+        "build": "npm run cp-all | npm run minify-css && npm run minify-html && npm run minify-js",
+        "serve": "npx http-server . -w"
+    },
+    "devDependencies": {
+        "cssnano": "^8.0.2",
+        "html-minifier-next": "^7.0.0",
+        "postcss-cli": "^11.0.1",
+        "terser": "^5.48.0"
+    }
+}

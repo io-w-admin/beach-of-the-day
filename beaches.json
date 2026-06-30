@@ -1,0 +1,14 @@
+[
+  { "name": "Spiaggia del Conigli", "lat": 35.513619957337454, "lng": 12.556967680268558 },
+  { "name": "Cala Galera", "lat": 35.508776915392694, "lng": 12.57682099534254 },
+  { "name": "Cala Greca", "lat": 35.50498262921558, "lng": 12.584946683873204 },
+  { "name": "Spiaggia di Cala Madonna", "lat": 35.50357863123861, "lng": 12.590541771873918 },
+  { "name": "Spiaggia Portu 'Ntoni", "lat": 35.50164399975084, "lng": 12.591893605260292 },
+  { "name": "Cala Croce", "lat": 35.50161342957956, "lng": 12.5936370410729 },
+  { "name": "Cala Roma", "lat": 35.499665648927355, "lng": 12.59406619455266 },
+  { "name": "Cala Guitgia", "lat": 35.498663738057445, "lng": 12.599180060106404 },
+  { "name": "Cala Spugne", "lat": 35.49568112106855, "lng": 12.608085617903432 },
+  { "name": "Spiaggia di Cala Francese", "lat": 35.49689721302335, "lng": 12.625036729960847 },
+  { "name": "Cala Uccello", "lat": 35.5014205449712, "lng": 12.629461219283852 },
+  { "name": "Cala Pisana", "lat": 35.50449276462415, "lng": 12.623701462336655 }
+]
