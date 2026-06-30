@@ -1,6 +1,6 @@
 # Beach of the Day
 
-Simple static site that shows a map of an island and selects one beach per day.
+Simple static site that shows a map of the island and selects one beach per day.
 
 Quick start (run from the repo root):
 
