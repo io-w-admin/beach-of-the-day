@@ -19,3 +19,6 @@ npm run build
 ```
 
 Edit `beaches.json` to add or change beaches. The selection is deterministic per day (UTC).
+
+## ❗❗❗Important note
+This website is being hosted on Github - it is potential security vulnerability. When the website is not used anymore, disable subdomain's DNS.
