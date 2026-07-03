@@ -18,6 +18,8 @@ npm run build
 
 ```
 
+Website is being deployed automatically using Github pages. All you have to do to push changes is push to main, CI will do the rest :)
+
 Edit `beaches.json` to add or change beaches. The selection is deterministic per day (UTC).
 
 ## ❗❗❗Important note
